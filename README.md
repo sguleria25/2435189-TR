@@ -9,9 +9,15 @@
 | Name | Sukhmani Guleria |
 | URN | 2435189 |
 | Branch | Computer Science and Engineering |
+| Section| CSE-E2 |
 | Training | Four Weeks Training |
 | Organization | Guru Nanak Dev Engineering College |
 | Duration | 30-06-2026 to 25-07-2026 |
+
+---
+## Introduction
+
+This repository serves as the daily diary for my Four Weeks Training conducted at Guru Nanak Dev Engineering College. It documents the concepts, technologies, practical activities, and skills covered during each training session. Each entry provides a concise summary of the day's learning, highlighting the knowledge gained and the progress made throughout the training program.
 
 ---
 
