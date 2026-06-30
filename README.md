@@ -1,5 +1,4 @@
 # 2435189-TR-102
-
 # Four Weeks Training Daily Diary
 ## Guru Nanak Dev Engineering College
 
