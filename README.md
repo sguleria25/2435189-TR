@@ -11,7 +11,7 @@
 | Branch | Computer Science and Engineering |
 | Training | Four Weeks Training |
 | Organization | Guru Nanak Dev Engineering College |
-| Duration | 29-06-2026 to 25-07-2026 |
+| Duration | 30-06-2026 to 25-07-2026 |
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Day | Date | Work Done |
 |-----|------|--------------------------|
-| 1 | 29-06-2026 | Today, we learned the fundamentals of data and information, including the different types of data, various data sources, and data modalities. We were also introduced to machine learning through a brief overview of it's working and applications. The session concluded with an introduction to Generative AI and its growing significance in modern technology. |
+| 1 | 30-06-2026 | Today, we learned the fundamentals of data and information, along with the key differences between them. The session covered various types of data, different data sources, and data modalities, helping us understand how data is collected, organized, and used in real world applications. We were also introduced to machine learning through a brief overview of its working principles, common models, and practical applications across different industries. Towards the end of the session, we explored the concept of Generative AI, its capabilities, popular use cases, and its growing significance in modern technology and future innovations. |
 | 2 | DD/MM/YYYY | |
 | 3 | DD/MM/YYYY | |
 | 4 | DD/MM/YYYY | |
