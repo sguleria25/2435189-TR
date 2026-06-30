@@ -1,5 +1,4 @@
 # 2435189-TR-102
-#Sukhmani Guleria, 2435189, CSE(E2)
 
 # Four Weeks Training Daily Diary
 ## Guru Nanak Dev Engineering College
@@ -21,7 +20,7 @@
 
 | Day | Date | Work Done |
 |-----|------|--------------------------|
-| 1 | DD/MM/YYYY | Today, we learned the fundamentals of data and information, including the different types of data, various data sources, and data modalities. We were also introduced to machine learning through a brief overview of it's working and applications. The session concluded with an introduction to Generative AI and its growing significance in modern technology. |
+| 1 | 29-06-2026 | Today, we learned the fundamentals of data and information, including the different types of data, various data sources, and data modalities. We were also introduced to machine learning through a brief overview of it's working and applications. The session concluded with an introduction to Generative AI and its growing significance in modern technology. |
 | 2 | DD/MM/YYYY | |
 | 3 | DD/MM/YYYY | |
 | 4 | DD/MM/YYYY | |
