@@ -26,7 +26,7 @@ This repository serves as the daily diary for my Four Weeks Training conducted a
 | Day | Date | Work Done |
 |-----|------|--------------------------|
 | 1 | 30-06-2026 | Today, we learned the fundamentals of data and information, along with the key differences between them. The session covered various types of data, different data sources, and data modalities, helping us understand how data is collected, organized, and used in real world applications. We were also introduced to machine learning through a brief overview of its working principles, common models, and practical applications across different industries. Towards the end of the session, we explored the concept of Generative AI, its capabilities, popular use cases, and its growing significance in modern technology and future innovations. |
-| 2 | DD/MM/YYYY | |
+| 2 | 01-07-2026 | Today, we learned  |
 | 3 | DD/MM/YYYY | |
 | 4 | DD/MM/YYYY | |
 | 5 | DD/MM/YYYY | |
